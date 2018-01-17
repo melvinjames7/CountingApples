@@ -1,5 +1,4 @@
 //
-//
 //  Created by Melvin James on 2/7/17.
 //  Copyright © 2017 Melvin James. All rights reserved.
 //
@@ -95,7 +94,6 @@ for(int row=0;row<kernalWidth;row++){
         
     }
 }
-
 
 Mat DenoisedImage(N1.size(),N1.type());
 
